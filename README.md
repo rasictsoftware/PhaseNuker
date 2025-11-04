@@ -1,3 +1,4 @@
+## This Project is no longer being maintained and is not being updated (owners of PhaseNuker have stopped working on project)
 #### Website: https://phasenuker.pages.dev/
 Btw the zip is not a rat it is just a zip for a simple install process 
 ### Read Before Using PhaseNuker
